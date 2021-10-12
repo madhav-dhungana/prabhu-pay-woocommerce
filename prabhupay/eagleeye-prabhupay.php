@@ -5,7 +5,7 @@
 	Description: PrabhuPay Payment Gateway for WooCommerce
 	Version: 1.0.1
 	Author: Madhav Dhungana
-	Author URI: https://eagleeyetech.net
+	Author URI: https://dmadhav.com.np
 	License: GPL v2 or later
     License URI: https://www.gnu.org/licenses/gpl-2.0.html
     Text Domain: eagleeye_prabhupay
